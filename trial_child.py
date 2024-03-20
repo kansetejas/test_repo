@@ -1,0 +1,1 @@
+print("kuch kar lu")
